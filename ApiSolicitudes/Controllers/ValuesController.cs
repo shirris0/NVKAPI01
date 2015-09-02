@@ -6,6 +6,7 @@ using System.Net.Http;
 using System.Web.Http;
 using ApiCore.Servicios;
 using ApiCore.Servicios.Impl;
+using ApiCore.Entidades;
 namespace ApiSolicitudes.Controllers
 {
     public class ValuesController : ApiController

@@ -42,3 +42,6 @@ c:\users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiSolicit
 c:\users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiSolicitudes\obj\Debug\ApiSolicitudes.dll
 c:\users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiSolicitudes\obj\Debug\ApiSolicitudes.pdb
 C:\Users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiSolicitudes\obj\Debug\ApiSolicitudes.csprojResolveAssemblyReference.cache
+D:\apinet\NVKAPI01\ApiSolicitudes\obj\Debug\ApiSolicitudes.csprojResolveAssemblyReference.cache
+D:\apinet\NVKAPI01\ApiSolicitudes\obj\Debug\ApiSolicitudes.dll
+D:\apinet\NVKAPI01\ApiSolicitudes\obj\Debug\ApiSolicitudes.pdb

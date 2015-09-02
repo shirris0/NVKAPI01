@@ -3,3 +3,8 @@ C:\Users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiCore\bi
 C:\Users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiCore\obj\Debug\ApiCore.dll
 C:\Users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiCore\obj\Debug\ApiCore.pdb
 C:\Users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiCore\obj\Debug\ApiCore.csprojResolveAssemblyReference.cache
+D:\apinet\NVKAPI01\ApiCore\bin\Debug\ApiCore.dll
+D:\apinet\NVKAPI01\ApiCore\bin\Debug\ApiCore.pdb
+D:\apinet\NVKAPI01\ApiCore\obj\Debug\ApiCore.csprojResolveAssemblyReference.cache
+D:\apinet\NVKAPI01\ApiCore\obj\Debug\ApiCore.dll
+D:\apinet\NVKAPI01\ApiCore\obj\Debug\ApiCore.pdb

@@ -42,3 +42,47 @@ c:\users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiSolicit
 c:\users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiSolicitudes.Tests\bin\Debug\es\System.Web.Optimization.resources.dll
 c:\users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiSolicitudes.Tests\obj\Debug\ApiSolicitudes.Tests.dll
 c:\users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiSolicitudes.Tests\obj\Debug\ApiSolicitudes.Tests.pdb
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\ApiSolicitudes.Tests.dll.config
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\ApiSolicitudes.Tests.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\ApiSolicitudes.Tests.pdb
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\ApiCore.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\ApiSolicitudes.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.Helpers.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.Http.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.Mvc.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.Razor.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.WebPages.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.Optimization.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\WebGrease.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\ApiCore.pdb
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\ApiSolicitudes.pdb
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.Helpers.xml
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.Http.xml
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.Mvc.xml
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.Razor.xml
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.WebPages.xml
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\es\System.Web.Http.resources.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\bin\Debug\es\System.Web.Optimization.resources.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\obj\Debug\ApiSolicitudes.Tests.csprojResolveAssemblyReference.cache
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\obj\Debug\ApiSolicitudes.Tests.dll
+D:\apinet\NVKAPI01\ApiSolicitudes.Tests\obj\Debug\ApiSolicitudes.Tests.pdb
