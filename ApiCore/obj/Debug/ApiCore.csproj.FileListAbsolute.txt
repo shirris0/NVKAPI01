@@ -1,0 +1,5 @@
+C:\Users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiCore\bin\Debug\ApiCore.dll
+C:\Users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiCore\bin\Debug\ApiCore.pdb
+C:\Users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiCore\obj\Debug\ApiCore.dll
+C:\Users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiCore\obj\Debug\ApiCore.pdb
+C:\Users\iwilson\documents\visual studio 2012\Projects\ApiSolicitudes\ApiCore\obj\Debug\ApiCore.csprojResolveAssemblyReference.cache
