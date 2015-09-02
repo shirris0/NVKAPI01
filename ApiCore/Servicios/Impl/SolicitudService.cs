@@ -57,5 +57,11 @@ namespace ApiCore.Servicios.Impl
             }
             return respuesta;
         }
+
+
+        public string ObtenerTodos()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

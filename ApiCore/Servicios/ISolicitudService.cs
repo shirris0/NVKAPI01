@@ -14,5 +14,7 @@ namespace ApiCore.Servicios
         bool Actualizar(Solicitud solicitud);
 
         bool Eliminar(int id);
+
+        string ObtenerTodos();
     }
 }

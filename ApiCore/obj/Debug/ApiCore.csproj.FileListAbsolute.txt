@@ -8,3 +8,8 @@ D:\apinet\NVKAPI01\ApiCore\bin\Debug\ApiCore.pdb
 D:\apinet\NVKAPI01\ApiCore\obj\Debug\ApiCore.csprojResolveAssemblyReference.cache
 D:\apinet\NVKAPI01\ApiCore\obj\Debug\ApiCore.dll
 D:\apinet\NVKAPI01\ApiCore\obj\Debug\ApiCore.pdb
+D:\ProyectosGITHUB\NVKAPI01\ApiCore\obj\Debug\ApiCore.csprojResolveAssemblyReference.cache
+D:\ProyectosGITHUB\NVKAPI01\ApiCore\obj\Debug\ApiCore.dll
+D:\ProyectosGITHUB\NVKAPI01\ApiCore\obj\Debug\ApiCore.pdb
+D:\ProyectosGITHUB\NVKAPI01\ApiCore\bin\Debug\ApiCore.dll
+D:\ProyectosGITHUB\NVKAPI01\ApiCore\bin\Debug\ApiCore.pdb

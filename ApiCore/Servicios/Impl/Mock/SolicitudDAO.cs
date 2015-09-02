@@ -51,5 +51,11 @@ namespace ApiCore.Servicios.Impl.Mock
             }
            
         }
+
+        public string ObtenerTodos() {
+
+
+            return null;
+        }
     }
 }

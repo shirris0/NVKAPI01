@@ -147,6 +147,15 @@ namespace ApiSolicitudes.Tests.ServiciosTest
             ISolicitudService solicitudService = new SolicitudService();
             solicitudService.Eliminar(12);
         }
+
+        [TestMethod]
+        [ExpectedException(typeof(BusinessException))]
+        public void ObtenerSolicitud()
+        {
+            ISolicitudService solicitudService = new SolicitudService();
+            solicitudService.Eliminar(12);
+        }
+
 #endregion
 
 
